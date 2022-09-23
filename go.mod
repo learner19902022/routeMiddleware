@@ -1,4 +1,4 @@
-module web
+module github.com/learner19902022/routeMiddleware
 
 go 1.19
 

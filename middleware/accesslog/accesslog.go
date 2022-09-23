@@ -2,7 +2,7 @@ package accesslog
 
 import (
 	"encoding/json"
-	web "gitee.com/geektime-geekbang/geektime-go/web/homework2"
+	web "github.com/learner19902022/routeMiddleware"
 	"log"
 )
 
